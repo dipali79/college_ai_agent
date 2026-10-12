@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+python-dotenv
+huggingface_hub
+pypdf
+python-docx
